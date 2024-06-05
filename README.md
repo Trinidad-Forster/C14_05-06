@@ -3,7 +3,7 @@
 ## Mi tema
 
 La idea es explorar y mostrar diversas dimensiones de un videojuego más bien técnicas como las expansiones que tiene, los temas que abarca, las mejoras que se han implementado en el juego, se terminará con una opinión personal de diversos aspecto de éste; todo esto a través de una infografía. Más entrando en el tema y explicando un poco de Los Sims 4: Es un videojuego de simulación social y de vida, el cuarto de la serie de juegos de Los Sims, desarrollado por Maxis y publicado por Electronic Arts para Windows y macOS. Los Sims 4 carece de una historia en concreto, la trama no es lineal y no tiene un objetivo final. El jugador puede controlar los personajes de una unidad doméstica, esta puede tener desde uno a ocho personajes creados o elegidos personalmente, dirigiéndolos a realizar diversas actividades, como satisfacer sus propias necesidades, ganar dinero y crear relaciones con otros personajes NPC tanto jugables. También permite la creación de casas y amoblado de éstas, teniendo diversas opciones de objetos para utilizar, sin embargo, la cantidad de estos dependerá de la cantidad de expansiones, pack de contenido y pack de accesorios extra que tenga la persona instalados en su computador.
-
+![opera](https://raw.githubusercontent.com/Trinidad-Forster/Clases_finales/main/sims.jpeg)
 ## Sus dimensiones
 - Actualizaciones. 
 - Expansiones, packs de contenido, pack de accesorios.
@@ -32,7 +32,7 @@ Para mods:
 Para valoración:
 
 - Valoraciónes entidades relacionadas a los rankings de videojuegos. 
-- Valoración personal respecto a las características de versiones anteriores de Sims (de 1 a 7). Las características a evaluar serán 1) Capacidad de personalización 2) Etapas de neonato 3) Etapa de bebé 4) Etapa de infante 4) Etapa de niño 5) Etapa adolescente 6) Etapa joven adulto 7) Etapa adulto 8) Etapa vejez 9) Interacción con el mundo 10) Aquí qería agrgar burbuja emergente para hacer una explicación de por qué esa nota.
+- Valoración personal respecto a las características de versiones anteriores de Sims (de 1 a 7). Las características a evaluar serán 1) Capacidad de personalización 2) Etapas de neonato 3) Etapa de bebé 4) Etapa de infante 4) Etapa de niño 5) Etapa adolescente 6) Etapa joven adulto 7) Etapa adulto 8) Etapa vejez 9) Interacción con el mundo 10) Aquí quería agregar burbuja emergente para hacer una explicación de por qué esa nota.
 
 Para competencia:
 
