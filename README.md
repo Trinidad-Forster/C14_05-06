@@ -3,7 +3,9 @@
 ## Mi tema
 
 La idea es explorar y mostrar diversas dimensiones de un videojuego más bien técnicas como las expansiones que tiene, los temas que abarca, las mejoras que se han implementado en el juego, se terminará con una opinión personal de diversos aspecto de éste; todo esto a través de una infografía. Más entrando en el tema y explicando un poco de Los Sims 4: Es un videojuego de simulación social y de vida, el cuarto de la serie de juegos de Los Sims, desarrollado por Maxis y publicado por Electronic Arts para Windows y macOS. Los Sims 4 carece de una historia en concreto, la trama no es lineal y no tiene un objetivo final. El jugador puede controlar los personajes de una unidad doméstica, esta puede tener desde uno a ocho personajes creados o elegidos personalmente, dirigiéndolos a realizar diversas actividades, como satisfacer sus propias necesidades, ganar dinero y crear relaciones con otros personajes NPC tanto jugables. También permite la creación de casas y amoblado de éstas, teniendo diversas opciones de objetos para utilizar, sin embargo, la cantidad de estos dependerá de la cantidad de expansiones, pack de contenido y pack de accesorios extra que tenga la persona instalados en su computador.
+
 ![opera](https://raw.githubusercontent.com/Trinidad-Forster/Clases_finales/main/sims.jpeg)
+
 ## Sus dimensiones
 - Actualizaciones. 
 - Expansiones, packs de contenido, pack de accesorios.
