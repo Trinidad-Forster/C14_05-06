@@ -10,8 +10,8 @@ La idea es explorar y mostrar diversas dimensiones de un videojuego más bien t�
 - Actualizaciones. 
 - Expansiones, packs de contenido, pack de accesorios.
 - Mods (contenido creado por independientes que se puede agregar al juego pero no está avalado por la empresa de Sims 4).
-- Valoración
-- Competenecia
+- Valoración.
+- Competenecia.
 
 ## Indicadores (visualizables) para cada dimensión
 
