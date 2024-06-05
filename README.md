@@ -37,7 +37,8 @@ Para valoración:
 Para competencia:
 
 - Otros juegos de simulación (también el ámbito de vida) existentes.
-- Valoraciones de esos juegos.
+- Comparación de valoraciones de esos juegos con el Sims 4.
+- Comparación número de personas que juegan esos juegos vs al Sims 4.
 
 - - - - - - - 
 
